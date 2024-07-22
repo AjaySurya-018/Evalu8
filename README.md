@@ -7,7 +7,7 @@ This project was assigned to us as an Internship, by the Department of Artificia
 
 For a quick demonstration of the work, you can directly skip to the [Demo](#demo) section of this documentation. 
 
-**Note of Gratitude** : Completing this project in time would not have been possible without the support and co-operation of my wonderful team. Take a moment to explore <a href=https://www.linkedin.com/feed/update/urn:li:activity:7219531714358910976/>my team.</a><br><br>
+**Note of Gratitude** : Completing this project in time would not have been possible without the support and co-operation of my wonderful team.
 
 # Introduction and Objective
 
